@@ -1,0 +1,12 @@
+Nome tabella: Inventario automobili
+
+   ID = numero : INT
+   Marca = stringa : VARCHAR(100)
+   Prezzo = numero : INT
+   Data_immatricolazione = data : DATE
+   Motore = stringa : VARCHAR(150)
+   Chilometri = numero : INT
+   Colore = stringa : VARCHAR(100)
+   Interni = stringa : VARCHAR(150)
+   Trazione = stringa: VARCHAR(30)
+   Cambio = stringa: VARCHAR(100)
